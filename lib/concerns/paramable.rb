@@ -1,3 +1,3 @@
-module Paramble 
+module Paramble
 
 end
